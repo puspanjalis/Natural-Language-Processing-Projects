@@ -1,2 +1,2 @@
 # Natural-Language-Processing-Projects
- My  NLP Projects
+This repository consists of my learning and experiments with natural language processing.
